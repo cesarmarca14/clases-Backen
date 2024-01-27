@@ -1,7 +1,0 @@
-#INPUTS (Entradas)
-a = input ("a: ")
-b = input ("b: ")
-#process (Proceso)
-SUMA = int(a) + int(b)
-#OUTPUTS (Salidas)
-print ("La suma es: "+a+" + "+b+" = "+str(SUMA))
